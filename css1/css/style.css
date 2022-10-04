@@ -1,22 +1,12 @@
-h1{
-    color: rgb(146, 61, 202);
-    font-size: 4rem;
+html{
+    font-size: 32px;
 }
-h2{
-    color: rgb(204, 111, 111);
+div{
+    font-size: 40px;
+}
+.ewq{
     font-size: 2rem;
 }
-p{
-    color: aquamarine;
-    font-size: 1.7rem;
-}
-body{
-    color: rgb(85, 17, 17);
-    font-size: 6rem;
-    
-}
-#heading
-{
-    color: rgb(245, 213, 107);
-    background: blue;
+.dsa{
+    font-size: 64px;
 }
