@@ -1,6 +1,30 @@
-div{
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.box-1,
+.box-2,
+.box-3{
     background: black;
     color: plum;
     padding: 20px;
     margin: 20px;
+    width: 200px;
+    height: 20;
+}
+.box-1{
+    background: black;
+    padding: 30px;
+    box-sizing: border-box;
+}
+.box-2{
+    background: yellow;
+    color: black;
+    opacity: 0.1;
+}
+.box-3{
+    background:orangered;
+    padding: 10px;
+    opacity: 1;
 }

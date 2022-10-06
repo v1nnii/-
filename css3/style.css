@@ -1,0 +1,26 @@
+div{
+    height: 200px;
+    color: aqua;
+}
+.big{
+    background: url("/картинки/пчела.jpg");
+    background-size: cover;
+}
+.smoll{
+    border: 2px solid blueviolet;
+    background: url("/картинки/коняка.jpg");
+    background-repeat: repeat;
+    background-repeat: no-repeat;
+    background-repeat: repeat-x;
+    background-repeat: repeat-y;
+    background-repeat: space;
+    background-repeat: round;
+
+
+
+}
+.folder{
+    background: url("/картинки/хлеб.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
