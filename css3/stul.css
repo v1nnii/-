@@ -1,0 +1,23 @@
+div {
+    width: 200px;
+    height: 200px;
+    margin: 5px;
+}
+.one{
+    background: linear-gradient(to bottom,pink,black);
+}
+.tw{
+    background: linear-gradient(to top,pink, black,purple,white );
+}
+.th{
+    background: linear-gradient(315deg,pink, black);
+}
+.fo{
+    background: linear-gradient(to top right,pink, black);
+}
+.fi{
+    background: linear-gradient(rgb(0, 0, 0, 0.3), rgb(0, 0, 0, 0.9));
+}
+.si{
+    background: linear-gradient(to left, rgb(0, 0, 0, 0.3), rgb(0, 0, 0, 0.9));
+}

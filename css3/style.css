@@ -6,7 +6,7 @@
 div{
     height: 200px;
     color: aqua;
-    font-size: 50px;
+    font-size: 30px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -16,6 +16,8 @@ div{
     background: url("/картинки/пчела.jpg");
     background-size: cover;
     background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
 }
 .smoll{
     border: 2px solid blueviolet;
