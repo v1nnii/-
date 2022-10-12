@@ -1,0 +1,20 @@
+div{
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-size: 60px;
+    color: plum;
+}
+.hob{
+    background: url("/картинки/пчела.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+.hei{
+    background: linear-gradient(rgba(0, 0, 0, 0.5) rgba(0, 0, 0, 0.5)), 
+    url(./картинки/пчела.jpg) center/center fixed no-repeat;
+}
