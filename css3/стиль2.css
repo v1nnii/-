@@ -1,0 +1,15 @@
+.ban{
+    border: 5px solid pink;
+    padding: 10px;
+}
+
+.on{
+    float: right;
+    margin: 50px;
+}
+.tw{
+    float: left;
+}
+p{
+    clear: both;
+}
