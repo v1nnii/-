@@ -1,0 +1,43 @@
+body{
+    background: pink;
+}
+
+.banner {
+    background: palevioletred;
+}
+h1 {
+    color: black;
+    text-align: center;
+    text-decoration: underline;
+    text-transform: capitalize;
+}
+@media screen and (min-width: 800px) {
+body {
+        background: pink;
+    }
+
+    .banner {
+        background: black;
+    }
+
+    h1 {
+        color: plum;
+        font-size: 70px;
+    }
+}
+@media screen and (max-width: 1000px) {
+body {
+        background: orchid;
+    }
+
+    .banner {
+        background: honeydew;
+    }
+
+    h1 {
+        color: orangered;
+        font-size: 70px;
+        text-align: center;
+    }
+
+}

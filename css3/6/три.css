@@ -1,0 +1,31 @@
+button {
+    background: black;
+    color: palevioletred;
+    font-size: 200px;
+    position: fixed;
+    top: 50%;
+    right: 30%;
+}
+div {
+    border: 3px solid pink;
+    background: orangered;
+    margin-top: 40px;
+    position: relative;
+}
+
+.one {
+    background: purple;
+
+}
+
+.two {
+    background: yellowgreen;
+}
+
+.special {
+    background: plum;
+    font-size: 19px;
+    position: absolute;
+    top: 45%;
+    left: 45%;
+}
