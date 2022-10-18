@@ -1,0 +1,28 @@
+div {
+    width: 200px;
+    height: 100px;
+    color: yellow;
+    margin: 10px;
+}
+
+.анимация{
+    background: palevioletred;
+    animation: move 5s 2;
+    animation-fill-mode: forwards;
+
+}
+@keyframes move {
+    0% {opacity: 0;
+    }
+    25% {
+    transform: translateX(200px);
+    opacity: 0.25;}
+    50% {
+        transform: translateX(-100px);
+        opacity: 1;
+        }
+    
+        100% {
+            transform: translateX(20px);
+            opacity: 0.5}
+        }
