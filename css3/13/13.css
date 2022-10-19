@@ -1,0 +1,14 @@
+.box{
+    color: blueviolet;
+    font-size: 4rem;
+}
+h1{
+    text-shadow: 1px 1px 3px orangered;
+}
+.bot{
+    width: 200px;
+    height: 100px;
+    background: palevioletred;
+    margin: 20px;
+    box-shadow: 3px 3px 6px purple;
+}

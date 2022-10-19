@@ -1,0 +1,27 @@
+:root {
+    --primaryColor:#24245a;
+    --secondaryColor:#ff46b2;
+    --mainTransition: all 0.4s linear;
+}
+.bim {
+    color: var(--primaryColor);
+}
+.tim {
+    color: var(--primaryColor);
+    transition: var(--mainTransition);
+}
+
+.tim:hover {
+    color: var(--sececondaryColor);
+}
+
+div{ 
+    --primaryRed: red;
+}
+
+.bam{ 
+    color: var(--primaryRed);
+}
+.tom{ 
+    color: var(--primaryRed);
+}
